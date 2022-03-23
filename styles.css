@@ -80,7 +80,7 @@ h1{
 }
 .bubble img{
   width: 50px;
-  animation: bubbles 7s linear infinite;
+  animation: bubbles 10s linear infinite;
 
 }
 .bubble{
@@ -131,6 +131,6 @@ h1{
   width: 50px;
 }
 .bubble img:nth-child(7){
-  animation-delay: 8s;
+  animation-delay: 30s;
   width: 100px;
 }
